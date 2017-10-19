@@ -16,7 +16,7 @@ class TabBlock extends Component {
             <div className="details-tabs-block">
                 {
                     this.props.items.map((item)=> {
-                        return <span
+                        return <span key={item}
                             className={"details-tab " + (this.state.selectedTab === item ? "details-active-tab" : "")}
                             onClick={() => this.onSelectTab(item)}>{item}</span>
                     })
