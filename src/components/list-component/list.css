@@ -1,0 +1,8 @@
+.list-block {
+    display: inline-block;
+    float: left;
+    border-right: 2px solid #fafafa;
+    max-height: 900px;
+    height: auto;
+    overflow: auto;
+}

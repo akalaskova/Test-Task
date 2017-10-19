@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="21px" viewBox="0 0 13 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>phone grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cards/PatientProfile" transform="translate(-193.000000, -71.000000)" fill-rule="nonzero" fill="#D7D7D7">
+            <g id="CARD-PatientProfile">
+                <path d="M194.25,71 C193.5575,71 193,71.5574975 193,72.25 L193,73 L206,73 L206,72.25 C206,71.5574975 205.4425,71 204.75,71 L194.25,71 Z M193,74 L193,88.000005 L206,88.000005 L206,74 L193,74 Z M193,89.000005 L193,90.750005 C193,91.442505 193.5575,92.000005 194.25,92.000005 L204.75,92.000005 C205.4425,92.000005 205.993662,91.44248 206,90.750005 L206,89.000005 L193,89.000005 Z M199.5,89.750005 C199.914225,89.750005 200.25,90.08578 200.25,90.500005 C200.25,90.914205 199.914225,91.250005 199.5,91.250005 C199.0858,91.250005 198.75,90.914205 198.75,90.500005 C198.75,90.08578 199.0858,89.750005 199.5,89.750005 Z" id="phone-grey"></path>
+            </g>
+        </g>
+    </g>
+</svg>

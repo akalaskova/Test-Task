@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="20px" viewBox="0 0 5 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>more</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Registry---Members" transform="translate(-391.000000, -253.000000)" fill="#828282">
+            <g id="GRP-Main" transform="translate(85.000000, 91.000000)">
+                <g id="GRP-UserList">
+                    <g id="User01" transform="translate(0.000000, 152.000000)">
+                        <g id="more" transform="translate(306.000000, 10.500000)">
+                            <path d="M2.5,14.175 C3.875,14.175 5,15.238125 5,16.5375 C5,17.836875 3.875,18.9 2.5,18.9 C1.125,18.9 0,17.836875 0,16.5375 C0,15.238125 1.125,14.175 2.5,14.175 L2.5,14.175 Z M2.5,11.8125 C1.125,11.8125 0,10.749375 0,9.45 C0,8.150625 1.125,7.0875 2.5,7.0875 C3.875,7.0875 5,8.150625 5,9.45 C5,10.749375 3.875,11.8125 2.5,11.8125 L2.5,11.8125 Z M2.5,4.725 C1.125,4.725 0,3.661875 0,2.3625 C0,1.063125 1.125,0 2.5,0 C3.875,0 5,1.063125 5,2.3625 C5,3.661875 3.875,4.725 2.5,4.725 L2.5,4.725 Z" id="GLYPH-More" transform="translate(2.500000, 9.450000) scale(1, -1) translate(-2.500000, -9.450000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

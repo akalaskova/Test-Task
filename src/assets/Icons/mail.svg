@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="17px" viewBox="0 0 23 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>GLYPH-Mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cards/PatientProfile" transform="translate(-394.000000, -73.000000)" fill-rule="nonzero" fill="#D7D7D7">
+            <g id="CARD-PatientProfile">
+                <path d="M406.608333,81.7266667 C405.871667,82.3783333 404.795,82.35 404.086667,81.7266667 L394.623333,73.51 C394.963333,73.1983333 395.416667,73 395.926667,73 L414.74,73 C415.25,73 415.731667,73.1983333 416.071667,73.5383333 L406.608333,81.7266667 Z M416.666667,74.9266667 L416.666667,88.0733333 C416.666667,89.15 415.788333,90 414.74,90 L395.926667,90 C394.85,90 394,89.1216667 394,88.0733333 L394,74.9266667 C394,74.785 394,74.6716667 394.028333,74.53 L403.321667,82.5766667 C403.916667,83.0866667 404.625,83.3416667 405.333333,83.3416667 C406.041667,83.3416667 406.778333,83.0866667 407.345,82.5766667 L416.638333,74.5583333 C416.666667,74.6716667 416.666667,74.8133333 416.666667,74.9266667 Z" id="GLYPH-Mail"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,44 @@
+.list-item-block {
+    position: relative;
+    height: 100px;
+    width: 312px;
+    display: flex;
+    align-items: center;
+    color: #4A4A4A;
+    cursor: pointer;
+}
+
+.list-item-avatar {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border: 2px solid #C0A0EC;
+    border-radius: 50%;
+    background: url('../../../assets/Icons/1.jpg') center;
+    background-size: cover;
+}
+
+.list-item-info {
+    display: inline-block;
+    font-size: 12px;
+    line-height: 20px;
+    margin-left: 25px;
+}
+
+.list-item-info p {
+    margin: 0 !important;
+}
+
+.details {
+    color: #9b9b9b;
+    margin-top: 10px;
+}
+
+.list-item-more-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 19px;
+    width: 5px;
+    background: url('../../../assets/Icons/more.svg');
+}

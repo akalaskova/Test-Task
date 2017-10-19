@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="19px" viewBox="0 0 12 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>GLYPH-Location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cards/PatientProfile" transform="translate(-194.000000, -140.000000)" fill-rule="nonzero" fill="#D7D7D7">
+            <g id="CARD-PatientProfile">
+                <g id="GLYPH-Location" transform="translate(194.000000, 140.000000)">
+                    <path d="M10.8826895,2.56283291 C9.28587122,0.265325503 6.30644204,-0.613720808 3.75542751,0.44513043 C0.464424042,1.82363487 -0.918186884,5.73938662 0.639684582,8.93591866 L5.41066595,18.6254064 C5.64434667,19.1248645 6.32591543,19.1248645 6.57906955,18.6254064 L11.3695243,8.93591866 C12.3042472,6.99802111 12.245827,4.54068711 10.8826895,2.56283291 Z M5.99486775,10.2345098 C3.81384769,10.2345098 2.0417689,8.4164822 2.0417689,6.17890978 C2.0417689,3.94133735 3.81384769,2.10333143 5.99486775,2.10333143 C8.19536119,2.10333143 9.96743999,3.92135902 9.96743999,6.17890978 C9.96743999,8.43646053 8.19536119,10.2345098 5.99486775,10.2345098 Z" id="Shape"></path>
+                    <path d="M6,4 C4.88888889,4 4,4.90740741 4,6 C4,7.11111111 4.88888889,8 6,8 C7.11111111,8 8,7.11111111 8,6 C8,4.90740741 7.11111111,4 6,4 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
