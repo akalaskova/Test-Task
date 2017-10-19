@@ -1,0 +1,23 @@
+.details-tabs-block {
+    border-bottom: solid 1px #d7d7d7;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.details-tab {
+    height: 15px;
+    margin-right: 30px;
+    padding: 5px 5px 15px 5px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #d7d7d7;
+    text-decoration: none;
+    cursor: pointer;
+    text-transform:capitalize;
+}
+
+.details-active-tab {
+    color: #828282;
+    border-bottom: solid 2px #c0a0ec;
+}

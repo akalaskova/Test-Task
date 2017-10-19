@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
-import {Link} from 'react-router';
 
 import './details.css';
+import TabBlock from "../base/tab-block/tab-block";
+import Avatar from "../base/avatar/avatar";
 
 class Details extends Component {
     constructor(props) {
@@ -13,7 +14,7 @@ class Details extends Component {
             <div className="details-block">
                 <div className="details-person-info">
                     <div className="details-avatar-and-text-block">
-                        <div className="details-avatar"></div>
+                        <Avatar className="details-avatar" />
                         <div className="details-avatar-text-block">
                             <span className="details-avatar-text">Age <p className="details-avatar-bold-text">22</p></span>
                             <span className="details-avatar-text">Gender <p className="details-avatar-bold-text">M</p></span>
@@ -31,12 +32,7 @@ class Details extends Component {
                     </div>
                 </div>
 
-                <div className="details-tabs-block">
-                    <Link className="details-tab" activeClassName="details-active-tab" to="">Overview</Link>
-                    <Link className="details-tab">Data</Link>
-                    <Link className="details-tab">Messages</Link>
-                    <Link className="details-tab">Notes</Link>
-                </div>
+                <TabBlock items={['overview', 'data', 'messages', 'notes']}/>
 
                 <div className="details-all-info-block">
                     <div className="details-condition-block">
